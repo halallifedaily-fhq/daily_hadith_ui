@@ -11,11 +11,14 @@ export function Footer() {
           </div>
 
           <div className="flex flex-wrap justify-center gap-6 text-sm text-muted-foreground">
-            <a href="#" className="hover:text-foreground transition-colors">
+            <a href="/privacy" className="hover:text-foreground transition-colors">
               Privacy Policy
             </a>
             <a href="/terms" className="hover:text-foreground transition-colors">
               Terms of Service
+            </a>
+            <a href="/refund" className="hover:text-foreground transition-colors">
+              Refund Policy
             </a>
             <a href="#" className="hover:text-foreground transition-colors">
               Contact
