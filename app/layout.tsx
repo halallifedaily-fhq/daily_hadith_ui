@@ -39,6 +39,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta name="facebook-domain-verification" content="5skl01myuu5dh8altkvgiuu49b1dba" />
+      </head>
       <body className={`font-serif antialiased`}>
         {children}
         <Analytics />
