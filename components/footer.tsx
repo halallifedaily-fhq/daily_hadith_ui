@@ -25,8 +25,10 @@ export function Footer() {
             </a>
           </div>
 
-          <p className="text-sm text-muted-foreground">© 2025 Daily Hadith. All rights reserved.</p>
+          <p className="text-sm text-muted-foreground">© 2025 Daily Hadith - Owned & operated by FARHAN HOQUE. All rights reserved.</p>
+
         </div>
+          <p className="flex justify-center text-md font-bold text-muted-foreground mt-4 bottom-0">Halal Life Daily – Sole proprietorship of Farhan Hoque, Chattogram, Bangladesh.</p>
       </div>
     </footer>
   )

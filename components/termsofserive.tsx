@@ -319,7 +319,8 @@ const TermsOfService: React.FC<Props> = ({
             <section id="14" style={sectionStyle}>
             <h2 style={headingStyle}>14. Contact Information</h2>
             <p style={paraStyle}>
-                If you have questions about these Terms or need help with your subscription, you can contact us at:
+                Halal Life Daily is a project owned and operated by FARHAN HOQUE.
+                For any business or legal inquiries, please contact:
             </p>
             <ul style={listStyle}>
                 <li>

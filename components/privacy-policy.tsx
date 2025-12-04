@@ -219,7 +219,8 @@ const PrivacyPolicy: React.FC<Props> = ({
             {/* 9. Contact */}
             <section id="9" style={sectionStyle}>
                 <h2 style={headingStyle}>9. Contact Us</h2>
-                <p style={paraStyle}>For any privacy-related questions:</p>
+                <p style={paraStyle}>Halal Life Daily is a project owned and operated by FARHAN HOQUE.
+                For any business or legal inquiries, please contact:</p>
                 <ul style={listStyle}>
                     <li>Email: {contactEmail}</li>
                     <li>Website: <a href={websiteUrl}>{websiteUrl}</a></li>
